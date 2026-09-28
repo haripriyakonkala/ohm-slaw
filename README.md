@@ -1,2 +1,0 @@
-# ohm-slaw
-electrical project
